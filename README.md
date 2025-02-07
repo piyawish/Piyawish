@@ -5,7 +5,7 @@
 <p align="center">
 <h2>High school student</h2>
 </p>
--------------------
+
 
 🌍 Passionate about computational linguistics , deep learning and neuroscience <br><br>
 💡 Creater of \[Piyathon\] (https://github.com/piyawish/piyathon), a Thai-localized superset of Python. <br><br>
