@@ -1,4 +1,4 @@
-Hi 👋 My name is Mike Piyawish
+Hi 👋 My name is PiyawishMike
 ==============================
 
 High school student
