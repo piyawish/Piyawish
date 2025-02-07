@@ -1,4 +1,6 @@
-PiyawishMike 
+<p align="center">
+  <strong><font size="6">PiyawishMike</font></strong><br>
+</p>
 ==============================
 
 High school student
