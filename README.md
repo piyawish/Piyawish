@@ -1,9 +1,10 @@
 <p align="center">
-  <strong><font size="1">PiyawishMike</font></strong><br>
+  <h1>PiyawishMike</h1>
 </p>
 
-
-High school student
+<p align="center">
+<h2>High school student</h2>
+  </p>
 -------------------
 
 🌍 Passionate about computational linguistics , deep learning and neuroscience <br><br>
