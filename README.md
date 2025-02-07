@@ -1,7 +1,7 @@
 <p align="center">
-  <strong><font size="6">PiyawishMike</font></strong><br>
+  <strong><font size="14">PiyawishMike</font></strong><br>
 </p>
-==============================
+
 
 High school student
 -------------------
