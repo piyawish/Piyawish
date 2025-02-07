@@ -4,7 +4,7 @@
 
 <p align="center">
 <h2>High school student</h2>
-  </p>
+</p>
 -------------------
 
 🌍 Passionate about computational linguistics , deep learning and neuroscience <br><br>
