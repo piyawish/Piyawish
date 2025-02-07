@@ -1,7 +1,7 @@
-<p align="center"> PiyawishMike </p>
+PiyawishMike 
 ==============================
 
-<p align="center"> High school student </p>
+High school student
 -------------------
 
 🌍 Passionate about computational linguistics , deep learning and neuroscience <br><br>
